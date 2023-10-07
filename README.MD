@@ -14,4 +14,4 @@
 
 #### my skills (undone)
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="Image description" width="100" height="100"> <img src="https://w7.pngwing.com/pngs/393/49/png-transparent-css-logo-thumbnail.png" width="100" height="100">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="Image description" width="100" height="100"> <img src="https://cdn.discordapp.com/attachments/1147835981492408370/1160211894951493653/css.png?ex=6533d687&is=65216187&hm=94a352ba5847b438c630083a6fb740251c778998616b5b9d87adccc42a588917&" width="100" height="100">

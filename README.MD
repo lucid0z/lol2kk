@@ -4,7 +4,7 @@
 
 ### hello
 
-- i am lolfrr/jayden
+- i am jayden
 
 #### contact me
 
